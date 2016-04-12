@@ -1,0 +1,6 @@
+c:\users\dugger\documents\visual studio 2015\Projects\Zoolandia\Zoolandia\bin\Debug\Zoolandia.exe.config
+C:\Users\Dugger\Documents\Visual Studio 2015\Projects\Zoolandia\Zoolandia\bin\Debug\Zoolandia.exe
+C:\Users\Dugger\Documents\Visual Studio 2015\Projects\Zoolandia\Zoolandia\bin\Debug\Zoolandia.pdb
+C:\Users\Dugger\Documents\Visual Studio 2015\Projects\Zoolandia\Zoolandia\obj\Debug\Zoolandia.exe
+C:\Users\Dugger\Documents\Visual Studio 2015\Projects\Zoolandia\Zoolandia\obj\Debug\Zoolandia.pdb
+C:\Users\Dugger\Documents\Visual Studio 2015\Projects\Zoolandia\Zoolandia\obj\Debug\Zoolandia.csprojResolveAssemblyReference.cache
